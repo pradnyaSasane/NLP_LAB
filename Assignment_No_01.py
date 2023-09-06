@@ -1,6 +1,6 @@
 ##Assignment No.01##
-#Name:Hon Asmita Raosaheb 
-##Roll No:71
+#Name:Sasane Pradnya 
+##Roll No:78
 #Batch:B4
 #Title:"Text Pre-Processing using NLP operations:perform Tokenization
 # Stop word removal,Lemmatization ,Part-of-Speech Tagging use any sample text"
